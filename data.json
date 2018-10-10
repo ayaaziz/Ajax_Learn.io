@@ -1,0 +1,34 @@
+[
+    {
+        "roomNum":101,
+        "isFull":true
+    },
+    {
+        "roomNum":102,
+        "isFull":true
+    },
+    {
+        "roomNum":103,
+        "isFull":false
+    },
+    {
+        "roomNum":104,
+        "isFull":true
+    },
+    {
+        "roomNum":105,
+        "isFull":false
+    },
+    {
+        "roomNum":106,
+        "isFull":true
+    },
+    {
+        "roomNum":107,
+        "isFull":true
+    },
+    {
+        "roomNum":108,
+        "isFull":false
+    }
+]
